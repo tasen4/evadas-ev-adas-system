@@ -1,0 +1,26 @@
+# STM32CubeIDE build output (regenerated every build -- don't commit)
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.list
+*.map
+*.elf
+*.bin
+*.hex
+
+# Eclipse/CubeIDE workspace metadata (only matters if you ever commit a
+# whole workspace folder instead of just the project folder)
+.metadata/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
